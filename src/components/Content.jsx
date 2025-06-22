@@ -10,42 +10,42 @@ export default function Content() {
       <div className="minbox2">
         <div className="minbox3">
           <div className="picbox">
-            <img src="../public/images/13.svg" alt="" className="picstyle" />
+            <img src="/images/13.svg" alt="" className="picstyle" />
             <div>
               <p className="shoptitle">Cone Dhoop</p>
               <p className="Shopnow">Shop Now</p>
             </div>
           </div>
           <div className="picbox">
-            <img src="../public/images/14.svg" alt="" className="picstyle" />
+            <img src="/images/14.svg" alt="" className="picstyle" />
             <div>
               <p className="shoptitle">incense Holders</p>
               <p className="Shopnow">Shop Now</p>
             </div>
           </div>
           <div className="picbox">
-            <img src="../public/images/15.svg" alt="" className="picstyle" />
+            <img src="/images/15.svg" alt="" className="picstyle" />
             <div>
               <p className="shoptitle">Incense Sticks</p>
               <p className="Shopnow">Shop Now</p>
             </div>
           </div>
           <div className="picbox">
-            <img src="../public/images/16.svg" alt="" className="picstyle" />
+            <img src="/images/16.svg" alt="" className="picstyle" />
             <div>
               <p className="shoptitle">Shankh</p>
               <p className="Shopnow">Shop Now</p>
             </div>
           </div>
           <div className="picbox">
-            <img src="../public/images/17.svg" alt="" className="picstyle" />
+            <img src="/images/17.svg" alt="" className="picstyle" />
             <div>
               <p className="shoptitle">Kalash</p>
               <p className="Shopnow">Shop Now</p>
             </div>
           </div>
           <div className="picbox">
-            <img src="../public/images/18.svg" alt="" className="picstyle" />
+            <img src="/images/18.svg" alt="" className="picstyle" />
             <div>
               <p className="shoptitle">Buddha</p>
               <p className="Shopnow">Shop Now</p>
@@ -60,28 +60,28 @@ export default function Content() {
         </div>
         <div className="disflex">
           <div className="minbox6">
-            <img src="../public/images/19.svg" alt="" className="whitebird" />
+            <img src="/images/19.svg" alt="" className="whitebird" />
           </div>
           <div className="minbox7">
             <div className="rightbox">
-              <img src="../public/images/20.svg" alt="" className="pinkright" />
+              <img src="/images/20.svg" alt="" className="pinkright" />
               <span className="texto">
                 Spirituality can provide them with a framework for understanding
                 the universe and their role in it
               </span>
             </div>
             <div className="rightbox1">
-              <img src="../public/images/20.svg" alt="" className="pinkright" />
+              <img src="/images/20.svg" alt="" className="pinkright" />
               <span className="texto">Coping with stress and uncertainty</span>
             </div>
             <div className="rightbox2">
-              <img src="../public/images/20.svg" alt="" className="pinkright" />
+              <img src="/images/20.svg" alt="" className="pinkright" />
               <span className="texto">
                 Spirituality can be a path to personal growth and self-discovery
               </span>
             </div>
             <div className="rightbox rightbox3">
-              <img src="../public/images/20.svg" alt="" className="pinkright" />
+              <img src="/images/20.svg" alt="" className="pinkright" />
               <span className="texto">
                 Spirituality can provide people with a sense of community and
                 connection with others
@@ -96,11 +96,11 @@ export default function Content() {
         <p className="text10">Our Latest Blogs</p>
         <div className="flexContect">
           <div className="lefticon">
-            <img src="../public/images/10.svg" alt="" className="miniarrow2" />
+            <img src="/images/10.svg" alt="" className="miniarrow2" />
           </div>
           <div className="flexContect1">
             <div className="conttag">
-              <img src="../public/images/21.svg" alt="" className="tagpic" />
+              <img src="/images/21.svg" alt="" className="tagpic" />
               <p className="text11">The Power of Mindfulness</p>
               <div className="text12">
                 <p className="text13">
@@ -119,7 +119,7 @@ export default function Content() {
           </div>
           <div className="flexContect1">
             <div className="conttag">
-              <img src="../public/images/22.svg" alt="" className="tagpic" />
+              <img src="/images/22.svg" alt="" className="tagpic" />
               <p className="text11">Connecting with the Divine</p>
               <div className="text12">
                 <p className="text13">
@@ -139,7 +139,7 @@ export default function Content() {
           </div>
           <div className="flexContect1">
             <div className="conttag">
-              <img src="../public/images/23.svg" alt="" className="tagpic" />
+              <img src="/images/23.svg" alt="" className="tagpic" />
               <p className="text11">The Beauty of Forgiveness</p>
               <div className="text12">
                 <p className="text13">
@@ -158,7 +158,7 @@ export default function Content() {
             </div>
           </div>
           <div className="lefticon">
-            <img src="../public/images/12.svg" alt="" className="miniarrow2" />
+            <img src="/images/12.svg" alt="" className="miniarrow2" />
           </div>
         </div>
       </div>
@@ -172,14 +172,14 @@ export default function Content() {
           <div className="box12">
             <div className="box13">
               <div className="pertag">
-                <img src="../public/images/24.svg" alt="" className="minitag" />
-                <img src="../public/images/25.svg" alt="" className="taglin" />
+                <img src="/images/24.svg" alt="" className="minitag" />
+                <img src="/images/25.svg" alt="" className="taglin" />
 
                 <input type="text" placeholder="Name" className="inputtag" />
               </div>
               <div className="pertag">
-                <img src="../public/images/26.svg" alt="" className="minitag" />
-                <img src="../public/images/25.svg" alt="" className="taglin" />
+                <img src="/images/26.svg" alt="" className="minitag" />
+                <img src="/images/25.svg" alt="" className="taglin" />
 
                 <input
                   type="text"
@@ -189,8 +189,8 @@ export default function Content() {
               </div>
             </div>
             <div className="emaibox">
-              <img src="../public/images/27.svg" alt="" className="minitag" />
-              <img src="../public/images/25.svg" alt="" className="taglin" />
+              <img src="/images/27.svg" alt="" className="minitag" />
+              <img src="/images/25.svg" alt="" className="taglin" />
 
               <input
                 type="text"
@@ -208,7 +208,7 @@ export default function Content() {
           </div>
 
           <div className="box12">
-            <img src="../public/images/28.svg" alt="" className="iconBox" />
+            <img src="/images/28.svg" alt="" className="iconBox" />
           </div>
         </div>
       </div>

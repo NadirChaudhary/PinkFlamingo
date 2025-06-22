@@ -5,7 +5,7 @@ export default function Footer() {
     <div className="footer">
       <div className="subscribe-section">
         <div className="subscribe-left">
-          <img src="../public/images/29.svg" alt="Email Icon" className="email-icon" />
+          <img src="/images/29.svg" alt="Email Icon" className="email-icon" />
           <p className='textemail'>Sign Up To Shop Now</p>
         </div>
         <div className="subscribe-right">
@@ -62,16 +62,16 @@ export default function Footer() {
           <p>Follow us on social media and stay updated.</p>
           <div className="social-icons">
             <div className='iconback'>
-            <img src="../public/images/30.svg" alt="Twitter" />
+            <img src="/images/30.svg" alt="Twitter" />
             </div>
             <div className='iconback'>
-            <img src="../public/images/31.svg" alt="Facebook" />
+            <img src="/images/31.svg" alt="Facebook" />
             </div>
             <div className='iconback'>
-            <img src="../public/images/32.svg" alt="Instagram" />
+            <img src="/images/32.svg" alt="Instagram" />
             </div>
             <div className='iconback'>
-            <img src="../public/images/33.svg" alt="YouTube" />
+            <img src="/images/33.svg" alt="YouTube" />
             </div>
           </div>
         </div>
